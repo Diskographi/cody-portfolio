@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cody-portfolio/static/css/main.ed29d1e2.chunk.css",
+    "main.js": "/cody-portfolio/static/js/main.41932c7f.chunk.js",
+    "main.js.map": "/cody-portfolio/static/js/main.41932c7f.chunk.js.map",
+    "runtime-main.js": "/cody-portfolio/static/js/runtime-main.81e24b2f.js",
+    "runtime-main.js.map": "/cody-portfolio/static/js/runtime-main.81e24b2f.js.map",
+    "static/css/2.40a775a0.chunk.css": "/cody-portfolio/static/css/2.40a775a0.chunk.css",
+    "static/js/2.4f1918fe.chunk.js": "/cody-portfolio/static/js/2.4f1918fe.chunk.js",
+    "static/js/2.4f1918fe.chunk.js.map": "/cody-portfolio/static/js/2.4f1918fe.chunk.js.map",
+    "index.html": "/cody-portfolio/index.html",
+    "precache-manifest.882c8e6c7896389dedeaf5f7998c65e6.js": "/cody-portfolio/precache-manifest.882c8e6c7896389dedeaf5f7998c65e6.js",
+    "service-worker.js": "/cody-portfolio/service-worker.js",
+    "static/css/2.40a775a0.chunk.css.map": "/cody-portfolio/static/css/2.40a775a0.chunk.css.map",
+    "static/css/main.ed29d1e2.chunk.css.map": "/cody-portfolio/static/css/main.ed29d1e2.chunk.css.map",
+    "static/js/2.4f1918fe.chunk.js.LICENSE.txt": "/cody-portfolio/static/js/2.4f1918fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81e24b2f.js",
+    "static/css/2.40a775a0.chunk.css",
+    "static/js/2.4f1918fe.chunk.js",
+    "static/css/main.ed29d1e2.chunk.css",
+    "static/js/main.41932c7f.chunk.js"
+  ]
+}
